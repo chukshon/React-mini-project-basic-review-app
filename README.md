@@ -2,7 +2,9 @@ Hey! I'm on a mission to learn react. I'll be posting series of react projects l
 
 
 # React-project-basic-review-app.
-This is a basic review app that renders list of reviews.
+This is a basic review app that renders list of reviews, built with React, Html and CSS.
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
