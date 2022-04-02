@@ -2,9 +2,7 @@ Hey! I'm on a mission to learn react. I'll be posting series of react projects l
 
 
 # React-project-basic-review-app.
-This is a basic review app that renders list of reviews, built with React, Html and CSS.
-
-
+This is a basic review app that renders list of reviews, built with React, Html and CSS. In this app, there will be a list of reviews where a user can navigate through the reviews whether foward or backwards with a prev and next button. Also there'll be a random button where a user can randomly show a review. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
