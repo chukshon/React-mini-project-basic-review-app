@@ -22,13 +22,13 @@ To install, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/chukshon/Responsive-car-website-html-css-js.git
+sudo git clone https://github.com/chukshon/React-project-basic-review-app.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/chukshon/Responsive-car-website-html-css-js.git
+git clone https://github.com/chukshon/React-project-basic-review-app.git
 ```
 
 
