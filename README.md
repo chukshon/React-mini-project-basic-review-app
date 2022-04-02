@@ -1,5 +1,7 @@
-# React-project-basic-review-app.
+Hey! I'm on a mission to learn react. I'll be posting series of react projects likes this regularly.
 
+
+# React-project-basic-review-app.
 This is a basic review app that renders list of reviews.
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
@@ -81,3 +83,10 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
+
+
+
+## License
+
+This project is **free to use** and does not contains any license.
+
