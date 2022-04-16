@@ -1,7 +1,7 @@
-Hey! I'm on a mission to learn react. I'll be posting series of react projects likes this regularly.
+Hey! I'm on a mission to learn react. I'll be posting series of mini react projects likes this regularly.
 
 
-# React-project-basic-review-app.
+# React-mini-project-basic-review-app.
 This is a basic review app that renders list of reviews, built with React, Html and CSS. In this app, there will be a list of reviews where a user can navigate through the reviews whether foward or backwards with a prev and next button. Also there'll be a random button where a user can randomly show a review. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
@@ -22,20 +22,20 @@ To install, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/chukshon/React-project-basic-review-app.git
+sudo git clone https://github.com/chukshon/React-mini-project-basic-review-app.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/chukshon/React-project-basic-review-app.git
+git clone https://github.com/chukshon/React-mini-project-basic-review-app.git
 ```
 
 
 After creation, your project should look like this:
 
 ```
-React-project-basic-review-app/
+React-mini-project-basic-review-app/
   node_modules/
   public/
     index.html
